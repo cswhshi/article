@@ -8,7 +8,7 @@
 [《Computer vision》笔记-SqueezeNet（6）](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247487394&idx=1&sn=64e2a4b096fbee0343a7a96fba591bc1&chksm=f9d1513acea6d82c629e79e6a452841c783fa3c9aa5b105bf196f9189f692651aaacdb9564fd&token=1087641682&lang=zh_CN#rd)|
 [《Computer vision》笔记-Xcention（5）](https://mp.weixin.qq.com/s/-RyYrJEyruF9UF93Hcxwdg)|
 [《Computer vision》笔记-ResNet（4）](https://mp.weixin.qq.com/s/-tQlRD7rWjqDBjMaQ0MSNw)|
-[《Computer vision》笔记-GoogLeNet （3）](Ghttps://mp.weixin.qq.com/s/MDBSU6plbATj8J1d7cXQCg)|
+[《Computer vision》笔记-GoogLeNet（3）](Ghttps://mp.weixin.qq.com/s/MDBSU6plbATj8J1d7cXQCg)|
 [《Computer vision》笔记-VGGNet （2）](https://mp.weixin.qq.com/s/kwSZg_NyZTs_kzEZg9p0cg)|
 [《Computer vision》笔记-AlexNet（1）](https://mp.weixin.qq.com/s/KzbhRYXkYrQuaH9Yv72xuA)|
 [干货（DL~2)一看就懂的卷积神经网络](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247487327&idx=2&sn=62f75fd674cf7301ef2dced0375b93d2&chksm=f9d151c7cea6d8d12d45fe67c48e1651ec450d59ee43fa0dc4a8bc033b6a2845d186d084f6e6&token=1087641682&lang=zh_CN#rd)|
