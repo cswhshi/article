@@ -20,9 +20,9 @@
 |[基础|认识机器学习中的逻辑回归、决策树、神经网络算法](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247485402&idx=1&sn=d193ba31450b6c067b33a7154ddbfe96&chksm=f9d15942cea6d054ce657b3042eed02203953130333d54581ff3b307291e26a0dc9b1ae25f23&token=1087641682&lang=zh_CN#rd)|
 |[全面直观认识深度神经网络](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247484462&idx=1&sn=705b19c0911db99d4a793ebe9485a4f7&chksm=f9d15ab6cea6d3a08f9091c962cb2897964c72d64a6b441cd488ba82d63de8f3fd7337cdf5b9&token=1087641682&lang=zh_CN#rd)|
 
- 表头  |
+ 文章  |
  ---- | 
- 单元格内容  | 
+ [图像超分辨率网络：RDN](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247487970&idx=1&sn=a3a7e3ca9f9916521d37fe543e10ec37&chksm=f9d14f7acea6c66c171ff37156c439695abbdaef13ee56a1ec3c244bad0f4afa488ce26abc24&token=1087641682&lang=zh_CN#rd)| 
 
 
 
