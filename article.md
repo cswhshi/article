@@ -1,5 +1,7 @@
   文章  |
  ---- | 
+ [《Computer vision》笔记-Res2Net（11）](https://mp.weixin.qq.com/s/lqx4n_3AT1zl0QibuhrqhA)|
+ [《Computer vision》笔记-shufflenet（10）](https://mp.weixin.qq.com/s/SWelP4vhhixmqd4iQ-0i5g)|
  [图像超分辨率网络：RCAN](https://mp.weixin.qq.com/s/IStOD22WgZ6EBFCvIHkNSg)|
  [《Computer vision》笔记-MobileNetV3（9）](https://mp.weixin.qq.com/s/ixV29cCzFO5v1L-sH6NxbA)|
  [图像超分辨率网络：RDN](https://mp.weixin.qq.com/s?__biz=MzUyMjE2MTE0Mw==&mid=2247487970&idx=1&sn=a3a7e3ca9f9916521d37fe543e10ec37&chksm=f9d14f7acea6c66c171ff37156c439695abbdaef13ee56a1ec3c244bad0f4afa488ce26abc24&token=1087641682&lang=zh_CN#rd)| 
